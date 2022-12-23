@@ -1,5 +1,5 @@
 
-## Fatima Zahra HASBI
+## 🔹 Fatima Zahra HASBI
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Kaushan+Script&size=35&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Examen+Design+Patterns+And+AOP+💻;" alt="Fatima Zahra HASBI" width="650" height="55"/>
 
@@ -10,6 +10,3 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 </div>
 <br>
-
-## 🔹 UML class diagram
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;espace
